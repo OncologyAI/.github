@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="logo_oncoai.png" alt="OncoAI Logo" />
+</div>
+
+
 # OncoAI
 
 **Website:** [www.oncoai.com.br](https://www.oncoai.com.br)
